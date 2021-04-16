@@ -8,3 +8,20 @@
 	-webkit-box-shadow: 0 1.6px 3.6px 0 hsl(240deg 2% 75% / 63%), 0 0.3px 0.9px 0 rgb(0 0 0 / 11%);
 	box-shadow: 0 1.6px 3.6px 0 hsl(240deg 2% 75% / 63%), 0 0.3px 0.9px 0 rgb(0 0 0 / 11%);
 }
+
+/* Poppins */
+@font-face {
+    font-family: 'Poppins';
+    src: url("type/Poppins-Regular.otf");
+}
+@font-face {
+    font-family: 'Poppins-Black';
+    src: url("type/Poppins-Black.otf");
+}
+
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
