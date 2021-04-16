@@ -19,7 +19,7 @@
     src: url("type/Poppins-Black.otf");
 }
 
-
+/* Text */
 body {
 	font-family: 'Poppins', sans-serif;
 }
@@ -28,3 +28,24 @@ h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 
 .text-boomer{color:#3e1c66;}
 .bg-boomer {background-color:#3E1C66;}
+
+/*Shape*/
+.custom-shape-divider-top-1618616225 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1618616225 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 110px;
+}
+
+.custom-shape-divider-top-1618616225 .shape-fill {
+    fill: #417505;
+}
