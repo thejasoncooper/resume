@@ -26,8 +26,13 @@ body {
 
 h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 
-.text-boomer{color:#3e1c66;}
-.bg-boomer {background-color:#3E1C66;}
+.text-boomer {color:#3e1c66;}
+.bg-green-1 {background-color:#417505;}
+.bg-green-2 {background-color:#1B8C01;}
+.bg-green-3 {background-color:#018212;}
+.bg-green-4 {background-color:#7C8C01;}
+.bg-green-5 {background-color:#827901;}
+
 
 /*Shape*/
 .custom-shape-divider-top-1618616225 {
@@ -47,5 +52,5 @@ h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 }
 
 .custom-shape-divider-top-1618616225 .shape-fill {
-    fill: #417505;
+    fill: #64B507;
 }
