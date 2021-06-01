@@ -12,11 +12,11 @@
 /* Poppins */
 @font-face {
     font-family: 'Poppins';
-    src: url("type/Poppins-Regular.otf");
+    src: url("assets/type/Poppins-Regular.otf");
 }
 @font-face {
     font-family: 'Poppins-Black';
-    src: url("type/Poppins-Black.otf");
+    src: url("assets/type/Poppins-Black.otf");
 }
 
 /* Text */
