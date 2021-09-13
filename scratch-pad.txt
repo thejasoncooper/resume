@@ -1,0 +1,26 @@
+<ul class="list-inline">
+					<li class="list-inline-item">HTML</li>
+<li class="list-inline-item">CSS/SCSS</li>
+<li class="list-inline-item">JavaScript</li>
+<li class="list-inline-item">MySQL</li>
+<li class="list-inline-item">PHP</li>
+<li class="list-inline-item">Git</li>
+<li class="list-inline-item">Agile and Scrum practices</li>
+<li class="list-inline-item">Google Ads</li>
+<li class="list-inline-item">Analytics</li>
+<li class="list-inline-item">Search Console</li>
+<li class="list-inline-item">Box Cloud Services</li>
+<li class="list-inline-item">Salesforce</li>
+<li class="list-inline-item">Salesforce Marketing Cloud</li>
+<li class="list-inline-item">Slack</li>
+<li class="list-inline-item">Mailchimp</li>
+<li class="list-inline-item">WordPress</li>
+<li class="list-inline-item">Advanced Custom Fields</li>
+<li class="list-inline-item">Yoast</li>
+<li class="list-inline-item">Adobe Photoshop</li>
+<li class="list-inline-item">InDesign</li>
+<li class="list-inline-item">Dreamweaver</li>
+<li class="list-inline-item">Microsoft Office 365</li>
+<li class="list-inline-item">Teams</li>
+<li class="list-inline-item">Planner</li>
+</ul>				
