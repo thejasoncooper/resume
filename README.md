@@ -1,5 +1,5 @@
 ### A simple resume.
-https://thejasoncooper.github.io/resume/resume.html
+https://thejasoncooper.github.io/resume/
 
 'Poppins' font via: https://www.indiantypefoundry.com/fonts/poppins/
 
