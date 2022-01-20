@@ -29,6 +29,15 @@ body {
     background-color: #f5f5f5;
 }
 
+a {
+    color: #B79891;
+    font-weight: bold;
+}
+
+a:hover {color: #714745;
+    font-weight: bold;
+}
+
 h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 
 .text-boomer {color:#3e1c66;}
