@@ -12,11 +12,11 @@
 /* Poppins */
 @font-face {
     font-family: 'Poppins';
-    src: url("assets/type/Poppins-Regular.otf");
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Regular.otf");
 }
 @font-face {
     font-family: 'Poppins-Black';
-    src: url("assets/type/Poppins-Black.otf");
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Black.otf");
 }
 
 /* Text */
@@ -30,15 +30,13 @@ body {
 }
 
 a {
-    color: #B79891;
+    color: #3F6B5B;
     font-weight: bold;
 }
 
-a:hover {color: #714745;
-    font-weight: bold;
-}
+a:hover {color: #91B8AA;}
 
-h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
+h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 
 .text-boomer {color:#3e1c66;}
 .bg-green-1 {background-color:#417505;}
@@ -47,11 +45,33 @@ h1 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 .bg-green-4 {background-color:#7C8C01;}
 .bg-green-5 {background-color:#827901;}
 
+.beige {color: #B79891;}
+.beigelight {color: #FFE8E3;}
+.beigedark {color: #6B504A;}
+.green {color: #3F6B5B;}
+.greenlight {color: #91B8AA;}
+
 .bg-tan-1 {background-color:#B79891;}
 .bg-tan-2 {background-color:#94716B;}
 .bg-tan-3 {background-color:#714745;}
 .bg-tan-4 {background-color:#5E202F;}
 .bg-tan-5 {background-color:#3B0909;}
+
+.card:hover, .card:active {
+    background-color: #3F6B5B; 
+    transition-timing-function: ease-in-out;
+    transition-delay: .1s;}
+
+.card:hover a, .card:active a {
+    color: #91B8AA;
+    transition-timing-function: ease-in-out;
+    transition-delay: .1s;
+}
+.card:hover i, .card:active i {
+    color: #91B8AA;
+    transition-timing-function: ease-in-out;
+    transition-delay: .1s;}
+
 
 /*Shape*/
 .custom-shape-divider-top-1618616225 {
