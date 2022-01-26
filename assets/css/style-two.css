@@ -44,6 +44,13 @@ a:hover {color: #91B8AA;}
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 
+/* Color Theme Swatches in Hex from Adobe Color 
+.Architecture-1-hex { color: #D9C9BA; }
+.Architecture-2-hex { color: #59341E; }
+.Architecture-3-hex { color: #8C6751; }
+.Architecture-4-hex { color: #BFA18F; }
+.Architecture-5-hex { color: #0D0D0D; } */
+
 .text-boomer {color:#3e1c66;}
 .bg-green-1 {background-color:#417505;}
 .bg-green-2 {background-color:#1B8C01;}
