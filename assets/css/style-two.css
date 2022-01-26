@@ -1,5 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
+
 .background-f5 {
 	background-color: #f5f5f5;
 }
@@ -18,11 +19,15 @@
     font-family: 'Poppins-Black';
     src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Black.otf");
 }
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Medium.otf");
+}
 
 /* Text */
 body {
 	font-family: 'Poppins', sans-serif;
-    background-color: #B79891;
+    background-color: #59341E;
 }
 
 .container {
@@ -37,6 +42,7 @@ a {
 a:hover {color: #91B8AA;}
 
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
+h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 
 .text-boomer {color:#3e1c66;}
 .bg-green-1 {background-color:#417505;}
