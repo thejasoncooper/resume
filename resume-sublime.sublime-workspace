@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"nofollow"
+			],
+			[
+				"text-",
+				"text-warning"
+			],
+			[
+				"tex",
+				"text-warning"
+			],
+			[
+				"colmd-",
+				"col-md-7"
+			],
+			[
+				"list-",
+				"list-inline-item"
+			],
+			[
+				"transition",
+				"transition-delay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Fold"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/jrcoo/GitHub/givinggap-web/assets/css/tailwind.css",
+		"/C/Users/jrcoo/GitHub/givinggap-web/assets/css/_global.css",
+		"/C/Users/jrcoo/GitHub/givinggap-web/README.md",
+		"/C/Users/jrcoo/GitHub/resume/index.html",
+		"/C/Users/jrcoo/GitHub/resume/bits/career-summary.html",
+		"/C/Users/jrcoo/GitHub/resume/assets/css/style.css",
+		"/C/Users/jrcoo/OneDrive/Desktop/director-partnerships.html",
+		"/C/Users/jrcoo/OneDrive/Desktop/crap.html",
+		"/C/Users/jrcoo/OneDrive/Documents/Work/Giving Gap/manager-comms.html",
+		"/C/Users/jrcoo/OneDrive/Documents/Work/Giving Gap/special-assitant-to-ceo.html",
+		"/C/Users/jrcoo/OneDrive/Desktop/gg-careers-xyz.html",
+		"/C/Users/jrcoo/OneDrive/Desktop/gg-careers-xyz",
+		"/C/Users/jrcoo/GitHub/resume/bits/giving-gap.html",
+		"/C/Users/jrcoo/GitHub/resume/bits/card nav.html",
+		"/C/Users/jrcoo/GitHub/resume/style.css",
+		"/C/Users/jrcoo/GitHub/resume/two.html",
+		"/C/Users/jrcoo/GitHub/resume/bits/ass director.html",
+		"/C/Users/jrcoo/GitHub/resume/assets/css/style-two.css",
+		"/C/Users/jrcoo/GitHub/resume/assets/type/Poppins-Regular.otf",
+		"/C/Users/jrcoo/GitHub/resume/bits/coordinator.html",
+		"/C/Users/jrcoo/GitHub/resume/bits/senior manager.html",
+		"/C/Users/jrcoo/GitHub/resume/bits/director de cs.html",
+		"/C/Users/jrcoo/GitHub/resume/stuff-i-know.txt",
+		"/C/Users/jrcoo/GitHub/resume/bits/edu proffes dev.html",
+		"/C/Users/jrcoo/GitHub/resume/resume.html"
+	],
+	"find":
+	{
+		"height": 31.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"file": "assets/img/me-02.jpg",
+					"selected": true,
+					"semi_transient": true,
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.3333333333
+	},
+	"input":
+	{
+		"height": 43.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "resume-sublime.sublime-project",
+	"replace":
+	{
+		"height": 58.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
