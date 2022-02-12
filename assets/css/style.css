@@ -52,11 +52,8 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 .Architecture-5-hex { color: #0D0D0D; } */
 
 .text-boomer {color:#3e1c66;}
-.bg-green-1 {background-color:#417505;}
-.bg-green-2 {background-color:#1B8C01;}
-.bg-green-3 {background-color:#018212;}
-.bg-green-4 {background-color:#7C8C01;}
-.bg-green-5 {background-color:#827901;}
+.text-black-75 {color: rgba(33,37,41,.75)!important;}
+
 
 .beige {color: #B79891;}
 .beigelight {color: #FFE8E3;}
@@ -64,11 +61,7 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 .green {color: #3F6B5B;}
 .greenlight {color: #91B8AA;}
 
-.bg-tan-1 {background-color:#B79891;}
-.bg-tan-2 {background-color:#94716B;}
-.bg-tan-3 {background-color:#714745;}
-.bg-tan-4 {background-color:#5E202F;}
-.bg-tan-5 {background-color:#3B0909;}
+
 
 .card:hover, .card:active {
     background-color: #3F6B5B; 
@@ -86,9 +79,7 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
     transition-delay: .1s;}
 
 
-
-
-/*Shape*/
+/*Shapes*/
 .custom-shape-divider-top-1618616225 {
     position: absolute;
     top: 0;
