@@ -27,19 +27,17 @@
 /* Text */
 body {
 	font-family: 'Poppins', sans-serif;
-    background-color: #59341E;
 }
 
-.container {
-    background-color: #f5f5f5;
+.container, .container-lg {
+    /*background-color: #f5f5f5;*/
 }
 
 a {
-    color: #3F6B5B;
     font-weight: bold;
 }
 
-a:hover {color: #91B8AA;}
+a:hover {}
 
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
@@ -63,7 +61,7 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 
 
 
-.card:hover, .card:active {
+/*.card:hover, .card:active {
     background-color: #3F6B5B; 
     transition-timing-function: ease-in-out;
     transition-delay: .1s;}
@@ -76,7 +74,7 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 .card:hover i, .card:active i {
     color: #91B8AA;
     transition-timing-function: ease-in-out;
-    transition-delay: .1s;}
+    transition-delay: .1s;}*/
 
 /*Shapes*/
 .custom-shape-divider-top-1618616225 {
