@@ -35,11 +35,11 @@ body {
 }
 
 a {
-    color: #3F6B5B;
+    color: #2C6CC6;
     font-weight: bold;
 }
 
-a:hover {color: #91B8AA;}
+a:hover {color: #7A5102;}
 
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
@@ -51,7 +51,8 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 .Architecture-4-hex { color: #BFA18F; }
 .Architecture-5-hex { color: #0D0D0D; } */
 
-.text-blue {color:#2c6cc6;} /* Based on Joshua Tree sky */
+.text-blue {color:#2C6CC6 !important;} /* Based on Joshua Tree sky */
+.text-brown {color:#7A5102 !important;} /* Based on Joshua Tree ground */
 .text-black-75 {color: rgba(33,37,41,.75)!important;}
 
 
