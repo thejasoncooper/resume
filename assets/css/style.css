@@ -118,6 +118,10 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
 }
 
 /* Link in Bio */
-.cover-container {
-    background-image: url("/assets/img/bio-bckgrnd-01.jpg");
+#lib.bckgrnd-img {
+    background-color: unset;
+    background-image: url("https://thejasoncooper.me/assets/img/bio-bckgrnd-01.jpg");
+}
+#lib .container {
+    background-color: unset;
 }
