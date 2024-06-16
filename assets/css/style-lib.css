@@ -1,0 +1,27 @@
+/* Link in Bio */
+/* Poppins */
+@font-face {
+    font-family: 'Poppins';
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Regular.otf");
+}
+@font-face {
+    font-family: 'Poppins-Black';
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Black.otf");
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url("https://thejasoncooper.github.io/resume/assets/type/Poppins-Medium.otf");
+}
+
+/* Text */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
+h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
+
+#lib .container {
+    background-color: unset !;
+}
+.smallest {font-size:xx-small;}

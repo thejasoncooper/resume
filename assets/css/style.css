@@ -37,9 +37,11 @@ body {
 a {
     color: #2C6CC6;
     font-weight: bold;
+    text-decoration: none;
 }
 
-a:hover {color: #7A5102;}
+a:hover {color: #7A5102;
+text-decoration: underline;}
 
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
@@ -117,10 +119,10 @@ h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
     fill: orange !important;
 }
 
-/* Link in Bio */
+/* Link in Bio 
 #lib.bckgrnd-img {
     background: url("https://thejasoncooper.me/assets/img/bio-bckgrnd-01.webp") center center repeat-y;
-}
+}*/
 #lib .container {
-    background-color: unset;
+    background-color: unset !;
 }
