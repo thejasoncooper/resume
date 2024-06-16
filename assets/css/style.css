@@ -37,9 +37,11 @@ body {
 a {
     color: #2C6CC6;
     font-weight: bold;
+    text-decoration: none;
 }
 
-a:hover {color: #7A5102;}
+a:hover {color: #7A5102;
+text-decoration: underline;}
 
 h1, h2 {font-family: 'Poppins-Black', 'Poppins', sans-serif;}
 h3 {font-family: 'Poppins-Medium', 'Poppins', sans-serif;}
