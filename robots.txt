@@ -1,5 +1,16 @@
+# Allow major U.S.-based search engines
 User-agent: Googlebot
-Disallow: /
+Disallow:
 
+User-agent: Bingbot
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Applebot
+Disallow:
+
+# Block everything else by default
 User-agent: *
-Allow: /
+Disallow: /
